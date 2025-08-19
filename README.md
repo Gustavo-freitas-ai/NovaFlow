@@ -96,7 +96,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-End** (HTML)
 
-- **[TailWind]
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+
 
 ---
 
