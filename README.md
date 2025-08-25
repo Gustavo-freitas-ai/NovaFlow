@@ -46,11 +46,6 @@ Este repositório contém o projeto desenvolvido como parte de uma atividade aca
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO FUNCIONALIDADES: -->
-## ⚙️ Funcionalidades
-
-<!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
 
 ---
 
