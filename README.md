@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-	🚧 {NovaFlow} - Em contrução 🚧
+	🚀✅ NovaFlow - Concluído 🚀✅🚀✅ QUICKFOOD - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -64,7 +64,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 ### Widget
 
 
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
+![Web1](https://github.com/Gustavo-freitas-ai/NovaFlow/blob/main/Captura%20de%20tela%202025-08-25%20195623.png)
 
 ---
 
