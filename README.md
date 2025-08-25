@@ -38,9 +38,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
-
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+Este repositório contém o projeto desenvolvido como parte de uma atividade acadêmica, orientada pelo professor, com foco no uso do Tailwind CSS para o desenvolvimento de uma interface responsiva e estilizada. O objetivo do projeto foi aprimorar nossas habilidades no uso de frameworks CSS modernos e entender como aplicar classes
 
 <!-- LINHA DE DIVISÃO: -->
 ---
