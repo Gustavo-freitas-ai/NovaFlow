@@ -26,9 +26,8 @@
 ## 📄 Descrição do entregável
 
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
-- Widget (Pasta que armazena apenas o widget)
-
-- ExternalPage (Widget em uma página externa)
+- index.html
+- README.md 
 
 ---
 
