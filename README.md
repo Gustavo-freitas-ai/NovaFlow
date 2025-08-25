@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-	🚀✅ NovaFlow - Concluído 🚀✅🚀✅ QUICKFOOD - Concluído ✅🚀
+	🚀✅ NovaFlow - Concluído 🚀✅
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
